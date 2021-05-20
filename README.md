@@ -52,6 +52,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-08-dev&show_icons=true&locale=en&layout=compact" alt="gaurav-08-dev" /></p>
  -->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav-08-dev&show_icons=true&locale=en" alt="gaurav-08-dev" /></p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-08-dev&show_icons=true&theme=radical)
 
-<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-08-dev&" alt="gaurav-08-dev" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav-08-dev&show_icons=true&locale=en" alt="gaurav-08-dev" /></p> -->
+
+<!-- <p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-08-dev&" alt="gaurav-08-dev" /></p> -->
