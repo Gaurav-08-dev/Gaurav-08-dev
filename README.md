@@ -52,11 +52,12 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
-  
-
+ 
+ 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-08-dev&theme=github_dark)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-08-dev&show_icons=true&locale=en&layout=compact" alt="gaurav-08-dev" /></p>
  -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-08-dev&show_icons=true&theme=radical)
+ ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-08-dev&show_icons=true&theme=github_dark)
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav-08-dev&show_icons=true&locale=en" alt="gaurav-08-dev" /></p> -->
 
