@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structure & Algorithms | Frontend Development**
 
-- 📫 Reach me **<a href="www.linkedin.com/in/gaurav-singh-08">Linkedin</a>**
+<!-- - 📫 Reach me **<a href="www.linkedin.com/in/gaurav-singh-08">Linkedin</a>** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
