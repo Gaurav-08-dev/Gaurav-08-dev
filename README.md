@@ -18,9 +18,9 @@
 <a href="https://auth.geeksforgeeks.org/user/g8111997" target="blank"><img align="center" src="https://yt3.ggpht.com/a-/AAuE7mCRb7_J_ebHT30Nah4Zj33GVneCtQio1jQ3tA=s900-mo-c-c0xffffffff-rj-k-no" alt="g8111997" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Programming Languages</h3>
+<!-- <h3 align="left">Programming Languages</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   -->
   
   <h3 align="left">Frontend Development</h3>
 <p align="left"> 
