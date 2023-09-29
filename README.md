@@ -64,7 +64,7 @@
  -->
  ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-08-dev&show_icons=true&theme=github_dark)
 
- [![An image of @gaurav08dev's Holopin badges](https://holopin.me/gaurav08dev)](https://holopin.io/@gaurav08dev)
+ <!-- [![An image of @gaurav08dev's Holopin badges](https://holopin.me/gaurav08dev)](https://holopin.io/@gaurav08dev) -->
 
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav-08-dev&show_icons=true&locale=en" alt="gaurav-08-dev" /></p> -->
