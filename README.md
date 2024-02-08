@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-08-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-08-dev" /> </p>
 
-- 🔭 Checkout my **<a href="https://personal-portfolio-gaurav.netlify.app/">personal portfolio**</a>
+- 🔭 Checkout my **<a href="https://gaurav-personal-portfolio.vercel.app/">personal portfolio**</a>
 
 - 🌱 I’m currently getting exposure to **Backend Development**
 
