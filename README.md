@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_gaurav_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_gaurav_?logo=twitter&style=for-the-badge" alt="dev_gaurav_" /></a> </p>
 
-- 🔭 I’m currently working on [thinkAI Saas](https://thinkai.vercel.app/)
+- 🔭 I’m currently working on [SpendSync]()
 
 - 🌱 I’m currently learning **Full Stack Development & Docker**
 
