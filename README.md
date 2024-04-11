@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with **Remote Opportunities in Frontend Role**
+- 🤝 I’m looking for help with **Building scalable SASS apps**
 
 - 👨‍💻 All of my projects are available at [https://gaurav-personal-portfolio.vercel.app/](https://gaurav-personal-portfolio.vercel.app/)
 
