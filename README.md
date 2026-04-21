@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/dev_gaurav_" target="blank"><img src="https://img.shields.io/twitter/follow/dev_gaurav_?logo=twitter&style=for-the-badge" alt="dev_gaurav_" /></a> </p>
 
-- 🔭 I’m currently working on [AI Resume Builder]()
-
-- 🌱 I’m currently learning **Full Stack Development & Docker**
-
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 🤝 I’m looking for help with **Building scalable SASS apps**
