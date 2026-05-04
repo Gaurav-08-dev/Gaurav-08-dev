@@ -55,18 +55,17 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav-08-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-08-dev&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-08-dev&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
+---
 
 ## 💡 Current Focus
 
