@@ -17,7 +17,7 @@
 * 🤝 I’m looking for help with **Building scalable SaaS apps**
 * 👨‍💻 Portfolio: [gaurav-personal-portfolio.vercel.app](https://gaurav-personal-portfolio.vercel.app/)
 * 📫 Reach me at: **[singhgaurav8.work@gmail.com](mailto:singhgaurav8.work@gmail.com)**
-* 📄 Resume: [View Resume](https://drive.google.com/file/d/1RXnld_T8bA4jOiaFa6PAz-yxKPMaw-Bg/view?usp=drivesdk)
+* 📄 Resume: [View Resume](https://drive.google.com/file/d/1mi4QamnFcQPv-0bGV5QXY4kMTc3GAbHM)
 
 ---
 
